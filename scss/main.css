@@ -1,0 +1,16 @@
+body {
+  font-size: 10px;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#conteiner {
+  width: 30rem;
+  height: 30rem;
+}/*# sourceMappingURL=main.css.map */
